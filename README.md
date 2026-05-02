@@ -1,8 +1,8 @@
-# 🛒 E-Commerce Data Analysis Project
+# 🛒 Car Price Data Analysis Project
 
 ## 📌 Project Overview
 
-This project analyzes a large-scale e-commerce dataset to uncover insights related to pricing, sales trends, and customer behavior. The goal is to perform end-to-end data analysis including data cleaning, exploration, and visualization.
+This project analyzes a large-scale Car price dataset to uncover insights related to pricing, sales trends, and customer behavior. The goal is to perform end-to-end data analysis including data cleaning, exploration, and visualization.
 
 ---
 
